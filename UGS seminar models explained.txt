@@ -1,0 +1,1 @@
+This is a simple git hub repo for everything we need to host our seminars.
